@@ -29,11 +29,11 @@ Have fun!
   | Name                                     | Demo                                     |
   | ---------------------------------------- | ---------------------------------------- |
   | [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)    Language:Swift | ![DGElasticPullToRefreshPreview1](resources/DGElasticPullToRefreshPreview1.gif)![DGElasticPullToRefreshPreview2](resources/DGElasticPullToRefreshPreview2.gif) |
-  | [ios-charts](https://github.com/danielgindi/ios-charts) Language:Swift | ![ios-charts1](resources/ios-charts1.png)![ios-charts1](resources/ios-charts2.png)![ios-charts1](resources/ios-charts3.png)![ios-charts1](resources/ios-charts4.png)![ios-charts1](resources/ios-charts5.png) |
+  | [ios-charts](https://github.com/danielgindi/ios-charts)          Language:Swift | ![ios-charts1](resources/ios-charts1.png)![ios-charts1](resources/ios-charts2.png)![ios-charts1](resources/ios-charts3.png)![ios-charts1](resources/ios-charts4.png)![ios-charts1](resources/ios-charts5.png) |
   | [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) Language:Objective-C | ![SFFocusViewLayout](resources/SFFocusViewLayout.gif) |
   | [KLParallaxView](https://github.com/klop/KLParallaxView) Language:Objective-C | ![KLParallaxView](resources/KLParallaxView.gif) |
-  | [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar) Language:Swift | ![gooeyTabbar_Temple](resources/gooeyTabbar_Temple.gif) |
-  | [Splitflap](https://github.com/yannickl/Splitflap)    Language:Swift | ![Splitflap](resources/Splitflap.gif)    |
+  | [GooeyTabbar](https://github.com/KittenYang/GooeyTabbar)   Language:Swift | ![gooeyTabbar_Temple](resources/gooeyTabbar_Temple.gif) |
+  | [Splitflap](https://github.com/yannickl/Splitflap)             Language:Swift | ![Splitflap](resources/Splitflap.gif)    |
   | [MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) Language:Objective-C | ![MYBlurIntroductionView](resources/MYBlurIntroductionView.gif) |
   | [MRProgress](https://github.com/mrackwitz/MRProgress) Language:Objective-C | ![MRProgress1](resources/MRProgress1.jpg)![MRProgress2](resources/MRProgress2.jpg) |
   | [Onboard](https://github.com/mamaral/Onboard) Language:Objective-C | ![Onboard1](resources/Onboard1.gif)![Onboard2](resources/Onboard2.gif) |
@@ -44,8 +44,8 @@ Have fun!
   | [PullToRefreshCoreText](https://github.com/cemolcay/PullToRefreshCoreText) Language:Objective-C | ![PullToRefreshCoreText](resources/PullToRefreshCoreText.gif) |
   | [PulsingHalo](https://github.com/shu223/PulsingHalo) Language:Objective-C | ![PulsingHalo](resources/PulsingHalo.gif) |
   | [WobbleView](https://github.com/inFullMobile/WobbleView) Language:Objective-C | ![wobble](resources/wobble.gif)          |
-  | [RZTransitions](https://github.com/Raizlabs/RZTransitions) Language:Objective-C | ![wobble](resources/wobble.gif)          |
-  | [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) Language:Objective-C | ![wobble](resources/wobble.gif)          |
+  | [RZTransitions](https://github.com/Raizlabs/RZTransitions) Language:Objective-C | ![RZTransitions](resources/RZTransitions.gif) |
+  | [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) Language:Objective-C | ![AnimatedTransitionGallery](resources/AnimatedTransitionGallery.gif) |
   | [KLCPopup](https://github.com/jmascia/KLCPopup)   Language:Objective-C | ![KLCPopup](resources/KLCPopup.gif)      |
   | [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) Language:Objective-C | ![BLKFlexibleHeightBar](resources/BLKFlexibleHeightBar.gif) |
   | [CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) Language:Objective-C | ![CSStickyHeaderFlowLayout](resources/CSStickyHeaderFlowLayout1.gif)![CSStickyHeaderFlowLayout](resources/CSStickyHeaderFlowLayout2.gif)![CSStickyHeaderFlowLayout](resources/CSStickyHeaderFlowLayout3.gif) |
