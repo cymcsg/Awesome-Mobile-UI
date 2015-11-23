@@ -1,6 +1,10 @@
-# Awesome Mobile UI in Github
+# Awesome Mobile UI
 
+A curated list of awesome mobile UI/UX libraries.Both Android and iOS.
 
+[Awesome Mobile UI](https://github.com/cymcsg/Awesome-Mobile-UI) 
+
+Have fun!
 
 * Animation
 * Badges
