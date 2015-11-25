@@ -25,6 +25,7 @@ Have fun!
 ## ALL
 
 * iOS:
+
   
   | Name                                     | Demo                                     |
   | ---------------------------------------- | ---------------------------------------- |
@@ -57,6 +58,18 @@ Have fun!
   | [BWWalkthrough](https://github.com/ariok/BWWalkthrough) Language:Swift | ![BWWalkthrough](resources/BWWalkthrough.gif) |
   | [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) Language:Swift | ![AMScrollingNavbar](resources/AMScrollingNavbar.gif) |
   | [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) Language:Swift | ![GuillotineMenu](resources/GuillotineMenu.gif) |
+  | [GoogleWearAlert](https://github.com/AshRobinson/GoogleWearAlert) Language:Swift | ![GoogleWearAlert](resources/GoogleWearAlert1.gif)  ![GoogleWearAlert](resources/GoogleWearAlert2.gif)|
+  | [GMStepper](https://github.com/gmertk/GMStepper) Language:Swift | ![GMStepper](resources/GMStepper.gif) |
+  | [GaugeKit](https://github.com/skywinder/GaugeKit) Language:Swift | ![GaugeKit](resources/GaugeKit.gif) |
+  | [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) Language:Swift | ![FrostedSidebar](resources/FrostedSidebar.gif) |
+  | [FloatRatingView](https://github.com/strekfus/FloatRatingView) Language:Swift | ![FloatRatingView](resources/FloatRatingView.gif) |
+  | [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) Language:Swift | ![FloatLabelFields](resources/FloatLabelFields.gif) |
+  | [FillableLoaders](https://github.com/poolqf/FillableLoaders) Language:Swift | ![FillableLoaders](resources/FillableLoaders.gif)   ![FillableLoaders](resources/FillableLoaders.gif)|
+  | [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) Language:Swift | ![ENSwiftSideMenu](resources/ENSwiftSideMenu.gif) |
+  | [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) Language:Swift | ![CozyLoadingActivity](resources/CozyLoadingActivity1.gif) ![CozyLoadingActivity](resources/CozyLoadingActivity2.gif) |
+  | [CharacterText](https://github.com/android1989/CharacterText) Language:Swift | ![CharacterText](resources/CharacterText1.gif) ![CharacterText](resources/CharacterText2.gif) |
+  | [BubbleTransition](https://github.com/andreamazz/BubbleTransition) Language:Swift | ![BubbleTransition](resources/BubbleTransition.gif) |
+  | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) Language:Swift | ![LTMorphingLabel](resources/LTMorphingLabel1.gif)  ![LTMorphingLabel](resources/LTMorphingLabel2.gif)   ![LTMorphingLabel](resources/LTMorphingLabel3.gif)  ![LTMorphingLabel](resources/LTMorphingLabel4.gif)  ![LTMorphingLabel](resources/LTMorphingLabel5.gif)  ![LTMorphingLabel](resources/LTMorphingLabel6.gif)|
   
   ​
 
