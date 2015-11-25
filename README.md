@@ -71,6 +71,19 @@ Have fun!
   | [CharacterText](https://github.com/android1989/CharacterText) Language:Swift | ![CharacterText](resources/CharacterText1.gif) ![CharacterText](resources/CharacterText2.gif) |
   | [BubbleTransition](https://github.com/andreamazz/BubbleTransition) Language:Swift | ![BubbleTransition](resources/BubbleTransition.gif) |
   | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) Language:Swift | ![LTMorphingLabel](resources/LTMorphingLabel1.gif)  ![LTMorphingLabel](resources/LTMorphingLabel2.gif)   ![LTMorphingLabel](resources/LTMorphingLabel3.gif)  ![LTMorphingLabel](resources/LTMorphingLabel4.gif)  ![LTMorphingLabel](resources/LTMorphingLabel5.gif)  ![LTMorphingLabel](resources/LTMorphingLabel6.gif)|
+| [Panoramic]https://github.com/iSame7/Panoramic) Language:Swift | ![Panoramic](resources/Panoramic.gif) |
+| [LiquidLoader](https://github.com/yoavlt/LiquidLoader) Language:Swift | ![LiquidLoader](resources/LiquidLoader1.gif)  ![LiquidLoader](resources/LiquidLoader2.gif) |
+| [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) Language:Swift | ![NVActivityIndicatorView](resources/NVActivityIndicatorView.gif) |
+| [MaterialKit]https://github.com/nghialv/MaterialKit) Language:Swift | ![MaterialKit](resources/MaterialKit1.gif)  ![MaterialKit](resources/MaterialKit2.gif)  ![MaterialKit](resources/MaterialKit3.gif)  ![MaterialKit](resources/MaterialKit4.gif) |
+| [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) Language:Swift | ![RubberBandEffect](resources/RubberBandEffect1.gif) ![RubberBandEffect](resources/RubberBandEffect2.gif) |
+| [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) Language:Swift | ![StarWars.iOS](resources/StarWars.iOS.gif) |
+| [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) Language:Swift | ![SweetAlert-iOS](resources/SweetAlert-iOS.gif) |
+| [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) Language:Swift | ![SAHistoryNavigationViewController](resources/SAHistoryNavigationViewController1.gif) ![SAHistoryNavigationViewController](resources/SAHistoryNavigationViewController2.gif) |
+| [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) Language:Swift | ![SwiftyDrop](resources/SwiftyDrop.gif) |
+| [Twinkle](https://github.com/piemonte/Twinkle) Language:Swift | ![Twinkle](resources/Twinkle.gif) |
+| [PinterestSwift](https://github.com/demonnico/PinterestSwift) Language:Swift | ![PinterestSwift](resources/PinterestSwift.gif) |
+
+
   
   ​
 
