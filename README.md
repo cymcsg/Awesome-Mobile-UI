@@ -84,6 +84,7 @@ Have fun!
 | [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) Language:Swift | ![SwiftyDrop](resources/SwiftyDrop.gif)  |
 | [Twinkle](https://github.com/piemonte/Twinkle) Language:Swift | ![Twinkle](resources/Twinkle.gif)        |
 | [PinterestSwift](https://github.com/demonnico/PinterestSwift) Language:Swift | ![PinterestSwift](resources/PinterestSwift.gif) |
+[PhotoStack](https://github.com/tomlongo/PhotoStack) Language:OC| ![PhotoStack](resources/PhotoStack.gif) |
 
 * Android:
 
