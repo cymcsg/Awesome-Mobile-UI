@@ -76,7 +76,7 @@ Have fun!
 [Panoramic](https://github.com/iSame7/Panoramic) Language:Swift | ![Panoramic](resources/Panoramic.gif)    |
 | [LiquidLoader](https://github.com/yoavlt/LiquidLoader) Language:Swift | ![LiquidLoader](resources/LiquidLoader1.gif)  ![LiquidLoader](resources/LiquidLoader2.gif) |
 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) Language:Swift | ![NVActivityIndicatorView](resources/NVActivityIndicatorView.gif) |
-| [MaterialKit]https://github.com/nghialv/MaterialKit) Language:Swift | ![MaterialKit](resources/MaterialKit1.gif)  ![MaterialKit](resources/MaterialKit2.gif)  ![MaterialKit](resources/MaterialKit3.gif)  ![MaterialKit](resources/MaterialKit4.gif) |
+| [MaterialKit](https://github.com/nghialv/MaterialKit) Language:Swift | ![MaterialKit](resources/MaterialKit1.gif)  ![MaterialKit](resources/MaterialKit2.gif)  ![MaterialKit](resources/MaterialKit3.gif)  ![MaterialKit](resources/MaterialKit4.gif) |
 | [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) Language:Swift | ![RubberBandEffect](resources/RubberBandEffect1.gif) ![RubberBandEffect](resources/RubberBandEffect2.gif) |
 | [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) Language:Swift | ![StarWars.iOS](resources/StarWars.iOS.gif) |
 | [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) Language:Swift | ![SweetAlert-iOS](resources/SweetAlert-iOS.gif) |
