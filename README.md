@@ -90,24 +90,16 @@ Have fun!
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController?luicode=10000359) Language:OC| ![WXTabBarController](resources/WXTabBarController.gif) |
 [SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter?luicode=10000359) Language:OC| ![SCNavigationControlCenter](resources/SCNavigationControlCenter.gif) |
 [Instructions](https://github.com/ephread/Instructions?luicode=10000359) Language:OC| ![Instructions](resources/Instructions.gif) |
-
-[HPYZhiHuDaily](https://github.com/hshpy/HPYZhiHuDaily?luicode=10000359) Language:OC|  
  [ADo_MinToMaxSlider](https://github.com/Nododo/ADo_MinToMaxSlider?luicode=10000359) Language:OC| ![ADo_MinToMaxSlider](resources/ADo_MinToMaxSlider.gif) |
  [SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD?luicode=10000359) Language:OC| ![SCCatWaitingHUD](resources/SCCatWaitingHUD.gif) |
- 
- [awesome-animatio](https://github.com/Animatious/awesome-animation?luicode=10000359) Language:OC| ![awesome-animatio](resources/awesome-animatio.gif) |
- 
-  [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar?luicode=10000359) Language:OC| ![animated-tab-bar](resources/animated-tab-bar.gif) |
+  [awesome-animatio](https://github.com/Animatious/awesome-animation?luicode=10000359) Language:OC| ![awesome-animatio](resources/awesome-animatio.gif) |
+    [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar?luicode=10000359) Language:OC| ![animated-tab-bar](resources/animated-tab-bar.gif) |
    [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton?luicode=10000359) Language:OC| ![JZMultiChoicesCircleButton](resources/JZMultiChoicesCircleButton.gif) |
    [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition?url_type=39&object_type=webpage&pos=1&luicode=10000359) Language:OC| ![TKSubmitTransition](resources/TKSubmitTransition.gif) |
  [ADo_OpotionView](https://github.com/Nododo/ADo_OpotionView?luicode=10000359) Language:OC| ![ADo_OpotionView](resources/ADo_OpotionView.gif) | 
    
+ * Android:
  
- 
- 
-* Android:
-
-
 | Name                                     | Demo                                     |
 | ---------------------------------------- | ---------------------------------------- |
 | [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)    Language:Java | ![UltimateAndroid1](resources/tutorial2-1.gif) ![UltimateAndroid1](resources/tutorial2-2.gif)  ![UltimateAndroid1](resources/tutorial2-3.gif) ![UltimateAndroid1](resources/tutorial2-4.gif) ![UltimateAndroid1](resources/tutorial2-5.gif) ![UltimateAndroid1](resources/tutorial2-6.gif) ![UltimateAndroid1](resources/tutorial2-7.gif) ![UltimateAndroid1](resources/tutorial2-8.gif) ![UltimateAndroid1](resources/tutorial2-9.gif) ![UltimateAndroid1](resources/tutorial2-10.gif) ![UltimateAndroid1](resources/tutorial2-11.gif) ![UltimateAndroid1](resources/tutorial2-12.gif) ![UltimateAndroid1](resources/tutorial2-13.gif) ![UltimateAndroid1](resources/tutorial2-14.gif) ![UltimateAndroid1](resources/tutorial2-15.gif)|
