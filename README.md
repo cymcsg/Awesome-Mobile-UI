@@ -73,7 +73,7 @@ Have fun!
 | [CharacterText](https://github.com/android1989/CharacterText) Language:Swift | ![CharacterText](resources/CharacterText1.gif) ![CharacterText](resources/CharacterText2.gif) |
 | [BubbleTransition](https://github.com/andreamazz/BubbleTransition) Language:Swift | ![BubbleTransition](resources/BubbleTransition.gif) |
 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) Language:Swift | ![LTMorphingLabel](resources/LTMorphingLabel1.gif)  ![LTMorphingLabel](resources/LTMorphingLabel2.gif)   ![LTMorphingLabel](resources/LTMorphingLabel3.gif)  ![LTMorphingLabel](resources/LTMorphingLabel4.gif)  ![LTMorphingLabel](resources/LTMorphingLabel5.gif)  ![LTMorphingLabel](resources/LTMorphingLabel6.gif) |
-| [Panoramic]https://github.com/iSame7/Panoramic) Language:Swift | ![Panoramic](resources/Panoramic.gif)    |
+[Panoramic](https://github.com/iSame7/Panoramic) Language:Swift | ![Panoramic](resources/Panoramic.gif)    |
 | [LiquidLoader](https://github.com/yoavlt/LiquidLoader) Language:Swift | ![LiquidLoader](resources/LiquidLoader1.gif)  ![LiquidLoader](resources/LiquidLoader2.gif) |
 | [NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) Language:Swift | ![NVActivityIndicatorView](resources/NVActivityIndicatorView.gif) |
 | [MaterialKit]https://github.com/nghialv/MaterialKit) Language:Swift | ![MaterialKit](resources/MaterialKit1.gif)  ![MaterialKit](resources/MaterialKit2.gif)  ![MaterialKit](resources/MaterialKit3.gif)  ![MaterialKit](resources/MaterialKit4.gif) |
@@ -85,17 +85,16 @@ Have fun!
 | [Twinkle](https://github.com/piemonte/Twinkle) Language:Swift | ![Twinkle](resources/Twinkle.gif)        |
 | [PinterestSwift](https://github.com/demonnico/PinterestSwift) Language:Swift | ![PinterestSwift](resources/PinterestSwift.gif) |
 [PhotoStack](https://github.com/tomlongo/PhotoStack) Language:OC| ![PhotoStack](resources/PhotoStack.gif) |
- [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView?luicode=10000359) Language:OC| ![PhotoStack](resources/WaveLoadingView.png) |
- [beautifulApp](https://github.com/lyimin/beautifulApp?luicode=10000359) Language:OC| ![beautifulApp](resources/beautifulApp.gif) |
+  [beautifulApp](https://github.com/lyimin/beautifulApp?luicode=10000359) Language:Swift| ![beautifulApp](resources/beautifulApp.gif) |
 [WXTabBarController](https://github.com/leichunfeng/WXTabBarController?luicode=10000359) Language:OC| ![WXTabBarController](resources/WXTabBarController.gif) |
 [SCNavigationControlCenter](https://github.com/SergioChan/SCNavigationControlCenter?luicode=10000359) Language:OC| ![SCNavigationControlCenter](resources/SCNavigationControlCenter.gif) |
-[Instructions](https://github.com/ephread/Instructions?luicode=10000359) Language:OC| ![Instructions](resources/Instructions.gif) |
+[Instructions](https://github.com/ephread/Instructions?luicode=10000359) Language:Swift| ![Instructions](resources/Instructions.gif) |
  [ADo_MinToMaxSlider](https://github.com/Nododo/ADo_MinToMaxSlider?luicode=10000359) Language:OC| ![ADo_MinToMaxSlider](resources/ADo_MinToMaxSlider.gif) |
  [SCCatWaitingHUD](https://github.com/SergioChan/SCCatWaitingHUD?luicode=10000359) Language:OC| ![SCCatWaitingHUD](resources/SCCatWaitingHUD.gif) |
   [awesome-animatio](https://github.com/Animatious/awesome-animation?luicode=10000359) Language:OC| ![awesome-animatio](resources/awesome-animatio.gif) |
-    [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar?luicode=10000359) Language:OC| ![animated-tab-bar](resources/animated-tab-bar.gif) |
+    [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar?luicode=10000359) Language:Swift| ![animated-tab-bar](resources/animated-tab-bar.gif) |
    [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton?luicode=10000359) Language:OC| ![JZMultiChoicesCircleButton](resources/JZMultiChoicesCircleButton.gif) |
-   [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition?url_type=39&object_type=webpage&pos=1&luicode=10000359) Language:OC| ![TKSubmitTransition](resources/TKSubmitTransition.gif) |
+   [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition?url_type=39&object_type=webpage&pos=1&luicode=10000359) Language:Swift| ![TKSubmitTransition](resources/TKSubmitTransition.gif) |
  [ADo_OpotionView](https://github.com/Nododo/ADo_OpotionView?luicode=10000359) Language:OC| ![ADo_OpotionView](resources/ADo_OpotionView.gif) | 
    
  * Android:
