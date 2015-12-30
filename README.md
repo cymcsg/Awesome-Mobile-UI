@@ -6,7 +6,7 @@ The list will add some Html5 library and Dribble project later.
 
 [https://github.com/cymcsg/Awesome-Mobile-UI](https://github.com/cymcsg/Awesome-Mobile-UI) 
 
-Have fun!
+Have fun! Feel free to contribute!
 
 * Animation
 * Badges
@@ -91,3 +91,5 @@ Have fun!
 | Name                                     | Demo                                     |
 | ---------------------------------------- | ---------------------------------------- |
 | [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)    Language:Java | ![UltimateAndroid1](resources/tutorial2-1.gif) ![UltimateAndroid1](resources/tutorial2-2.gif)  ![UltimateAndroid1](resources/tutorial2-3.gif) ![UltimateAndroid1](resources/tutorial2-4.gif) ![UltimateAndroid1](resources/tutorial2-5.gif) ![UltimateAndroid1](resources/tutorial2-6.gif) ![UltimateAndroid1](resources/tutorial2-7.gif) ![UltimateAndroid1](resources/tutorial2-8.gif) ![UltimateAndroid1](resources/tutorial2-9.gif) ![UltimateAndroid1](resources/tutorial2-10.gif) ![UltimateAndroid1](resources/tutorial2-11.gif) ![UltimateAndroid1](resources/tutorial2-12.gif) ![UltimateAndroid1](resources/tutorial2-13.gif) ![UltimateAndroid1](resources/tutorial2-14.gif) ![UltimateAndroid1](resources/tutorial2-15.gif)|
+| [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![ElasticProgressBar](resources/ElasticProgressBar1.gif)  ![ElasticProgressBar](resources/ElasticProgressBar2.gif) |
+| [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![ElasticDownload](resources/ElasticDownload1.gif)  ![ElasticDownload](resources/ElasticDownload2.gif) |
