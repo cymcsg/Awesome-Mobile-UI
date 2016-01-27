@@ -96,6 +96,7 @@ Have fun! Feel free to contribute!
    [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton?luicode=10000359) Language:OC| ![JZMultiChoicesCircleButton](resources/JZMultiChoicesCircleButton.gif) |
    [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition?url_type=39&object_type=webpage&pos=1&luicode=10000359) Language:Swift| ![TKSubmitTransition](resources/TKSubmitTransition.gif) |
  [ADo_OpotionView](https://github.com/Nododo/ADo_OpotionView?luicode=10000359) Language:OC| ![ADo_OpotionView](resources/ADo_OpotionView.gif) | 
+  [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) Language:OC| ![RazzleDazzle](resources/RazzleDazzle.gif) | 
    
  * Android:
  
@@ -104,3 +105,4 @@ Have fun! Feel free to contribute!
 | [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)    Language:Java | ![UltimateAndroid1](resources/tutorial2-1.gif) ![UltimateAndroid1](resources/tutorial2-2.gif)  ![UltimateAndroid1](resources/tutorial2-3.gif) ![UltimateAndroid1](resources/tutorial2-4.gif) ![UltimateAndroid1](resources/tutorial2-5.gif) ![UltimateAndroid1](resources/tutorial2-6.gif) ![UltimateAndroid1](resources/tutorial2-7.gif) ![UltimateAndroid1](resources/tutorial2-8.gif) ![UltimateAndroid1](resources/tutorial2-9.gif) ![UltimateAndroid1](resources/tutorial2-10.gif) ![UltimateAndroid1](resources/tutorial2-11.gif) ![UltimateAndroid1](resources/tutorial2-12.gif) ![UltimateAndroid1](resources/tutorial2-13.gif) ![UltimateAndroid1](resources/tutorial2-14.gif) ![UltimateAndroid1](resources/tutorial2-15.gif)|
 | [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![ElasticProgressBar](resources/ElasticProgressBar1.gif)  ![ElasticProgressBar](resources/ElasticProgressBar2.gif) |
 | [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![ElasticDownload](resources/ElasticDownload1.gif)  ![ElasticDownload](resources/ElasticDownload2.gif) |
+| [StarWars.Android](https://github.com/Yalantis/StarWars.Android)  | ![StarWars.iOS](resources/StarWars.iOS.gif) |
