@@ -96,7 +96,9 @@ Have fun! Feel free to contribute!
    [JZMultiChoicesCircleButton](https://github.com/JustinFincher/JZMultiChoicesCircleButton?luicode=10000359) Language:OC| ![JZMultiChoicesCircleButton](resources/JZMultiChoicesCircleButton.gif) |
    [TKSubmitTransition](https://github.com/entotsu/TKSubmitTransition?url_type=39&object_type=webpage&pos=1&luicode=10000359) Language:Swift| ![TKSubmitTransition](resources/TKSubmitTransition.gif) |
  [ADo_OpotionView](https://github.com/Nododo/ADo_OpotionView?luicode=10000359) Language:OC| ![ADo_OpotionView](resources/ADo_OpotionView.gif) | 
-  [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) Language:OC| ![RazzleDazzle](resources/RazzleDazzle.gif) | 
+  [RazzleDazzle](https://github.com/IFTTT/RazzleDazzle) Language:OC| ![RazzleDazzle](resources/RazzleDazzle.gif) |
+ [TwitterBirdAnimation](https://github.com/rounak/TwitterBirdAnimation) Language:Swift|![TwitterBirdAnimation](resources/TwitterBirdAnimation.gif) |
+  
    
  * Android:
  
