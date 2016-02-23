@@ -111,4 +111,4 @@ Have fun! Feel free to contribute!
 | [EntryScreenManager](https://github.com/kunall17/EntryScreenManager)  | ![EntryScreenManager](resources/entryscreen.gif) |
 |[MaterialIntroView](https://github.com/iammert/MaterialIntroView)|![MaterialIntroView](resources/MaterialIntroView.gif)
 |[uCrop](https://github.com/Yalantis/uCrop)|![uCrop](resources/uCrop.gif)|
-|[SearchView](https://github.com/lapism/SearchView)|![SearchView](resources/SearchView1.gif)![SearchView](resources/SearchView2.gif)![SearchView](resources/SearchView3.gif)|
+|[SearchView](https://github.com/lapism/SearchView)|![SearchView](resources/SearchView1.png)![SearchView](resources/SearchView2.png)![SearchView](resources/SearchView3.png)|
