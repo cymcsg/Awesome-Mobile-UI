@@ -110,4 +110,5 @@ Have fun! Feel free to contribute!
 | [StarWars.Android](https://github.com/Yalantis/StarWars.Android)  | ![StarWars.iOS](resources/StarWars.iOS.gif) |
 | [EntryScreenManager](https://github.com/kunall17/EntryScreenManager)  | ![EntryScreenManager](resources/entryscreen.gif) |
 |[MaterialIntroView](https://github.com/iammert/MaterialIntroView)|![MaterialIntroView](resources/MaterialIntroView.gif)
-|[uCrop](https://github.com/Yalantis/uCrop)|![uCrop](resources/uCrop.gif)
+|[uCrop](https://github.com/Yalantis/uCrop)|![uCrop](resources/uCrop.gif)|
+|[SearchView](https://github.com/lapism/SearchView)|![SearchView](resources/SearchView1.gif)![SearchView](resources/SearchView2.gif)![SearchView](resources/SearchView3.gif)|
