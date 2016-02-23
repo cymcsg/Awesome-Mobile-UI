@@ -108,3 +108,4 @@ Have fun! Feel free to contribute!
 | [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![ElasticProgressBar](resources/ElasticProgressBar1.gif)  ![ElasticProgressBar](resources/ElasticProgressBar2.gif) |
 | [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![ElasticDownload](resources/ElasticDownload1.gif)  ![ElasticDownload](resources/ElasticDownload2.gif) |
 | [StarWars.Android](https://github.com/Yalantis/StarWars.Android)  | ![StarWars.iOS](resources/StarWars.iOS.gif) |
+| [EntryScreenManager](https://github.com/kunall17/EntryScreenManager)  | ![EntryScreenManager](resources/entryscreen.gif) |
