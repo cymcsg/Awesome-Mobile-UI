@@ -32,7 +32,8 @@ Have fun! Feel free to contribute!
 
 | Name                                     | Demo                                     |
 | ------------------------------ | ---------------------------------------- |
-|[ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)	Language:Swift  |![ColorMatchTabs](resources/Carthage_Carthage)![ColorMatchTabs](resources/ColorMatchTabs_preview.gif)
+|[FillableLoaders](https://github.com/poolqf/FillableLoaders)	Language:Swift  |![FillableLoaders](resources/Carthage_Carthage)![FillableLoaders](resources/FillableLoaders_waves.gif)![FillableLoaders](resources/FillableLoaders_spike.gif)![FillableLoaders](resources/FillableLoaders_rounded.gif)![FillableLoaders](resources/FillableLoaders_progress.gif)
+|[ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)	Language:Swift  |![ColorMatchTabs](resources/ColorMatchTabs_preview.gif)
 | [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)    Language:Swift | ![DGElasticPullToRefreshPreview1](resources/DGElasticPullToRefreshPreview1.gif)![DGElasticPullToRefreshPreview2](resources/DGElasticPullToRefreshPreview2.gif) |
 | [ios-charts](https://github.com/danielgindi/ios-charts)          Language:Swift | ![ios-charts1](resources/ios-charts1.png)![ios-charts1](resources/ios-charts2.png)![ios-charts1](resources/ios-charts3.png)![ios-charts1](resources/ios-charts4.png)![ios-charts1](resources/ios-charts5.png) |
 | [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) Language:Objective-C | ![SFFocusViewLayout](resources/SFFocusViewLayout.gif) |
@@ -68,9 +69,7 @@ Have fun! Feel free to contribute!
 | [FrostedSidebar](https://github.com/edekhayser/FrostedSidebar) Language:Swift | ![FrostedSidebar](resources/FrostedSidebar.gif) |
 | [FloatRatingView](https://github.com/strekfus/FloatRatingView) Language:Swift | ![FloatRatingView](resources/FloatRatingView.gif) |
 | [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) Language:Swift | ![FloatLabelFields](resources/FloatLabelFields.gif) |
-| [FillableLoaders](https://github.com/poolqf/FillableLoaders) Language:Swift | ![FillableLoaders](resources/FillableLoaders.gif)   ![FillableLoaders](resources/FillableLoaders.gif) |
 | [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) Language:Swift | ![ENSwiftSideMenu](resources/ENSwiftSideMenu.gif) |
-| [CozyLoadingActivity](https://github.com/goktugyil/CozyLoadingActivity) Language:Swift | ![CozyLoadingActivity](resources/CozyLoadingActivity1.gif) ![CozyLoadingActivity](resources/CozyLoadingActivity2.gif) |
 | [CharacterText](https://github.com/android1989/CharacterText) Language:Swift | ![CharacterText](resources/CharacterText1.gif) ![CharacterText](resources/CharacterText2.gif) |
 | [BubbleTransition](https://github.com/andreamazz/BubbleTransition) Language:Swift | ![BubbleTransition](resources/BubbleTransition.gif) |
 | [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) Language:Swift | ![LTMorphingLabel](resources/LTMorphingLabel1.gif)  ![LTMorphingLabel](resources/LTMorphingLabel2.gif)   ![LTMorphingLabel](resources/LTMorphingLabel3.gif)  ![LTMorphingLabel](resources/LTMorphingLabel4.gif)  ![LTMorphingLabel](resources/LTMorphingLabel5.gif)  ![LTMorphingLabel](resources/LTMorphingLabel6.gif) |
