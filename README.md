@@ -31,7 +31,7 @@ Have fun! Feel free to contribute!
 
 
 | Name                                     | Demo                                     |
-| ---------------------------------------- | ---------------------------------------- |
+| ------------------------------ | ---------------------------------------- |
 | [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)    Language:Swift | ![DGElasticPullToRefreshPreview1](resources/DGElasticPullToRefreshPreview1.gif)![DGElasticPullToRefreshPreview2](resources/DGElasticPullToRefreshPreview2.gif) |
 | [ios-charts](https://github.com/danielgindi/ios-charts)          Language:Swift | ![ios-charts1](resources/ios-charts1.png)![ios-charts1](resources/ios-charts2.png)![ios-charts1](resources/ios-charts3.png)![ios-charts1](resources/ios-charts4.png)![ios-charts1](resources/ios-charts5.png) |
 | [SFFocusViewLayout](https://github.com/fdzsergio/SFFocusViewLayout) Language:Objective-C | ![SFFocusViewLayout](resources/SFFocusViewLayout.gif) |
@@ -103,7 +103,7 @@ Have fun! Feel free to contribute!
  * Android:
  
 | Name                                     | Demo                                     |
-| ---------------------------------------- | ---------------------------------------- |
+| ------------------------ | -------------------------------------------- |
 | [UltimateAndroid](https://github.com/cymcsg/UltimateAndroid)    Language:Java | ![UltimateAndroid1](resources/tutorial2-1.gif) ![UltimateAndroid1](resources/tutorial2-2.gif)  ![UltimateAndroid1](resources/tutorial2-3.gif) ![UltimateAndroid1](resources/tutorial2-4.gif) ![UltimateAndroid1](resources/tutorial2-5.gif) ![UltimateAndroid1](resources/tutorial2-6.gif) ![UltimateAndroid1](resources/tutorial2-7.gif) ![UltimateAndroid1](resources/tutorial2-8.gif) ![UltimateAndroid1](resources/tutorial2-9.gif) ![UltimateAndroid1](resources/tutorial2-10.gif) ![UltimateAndroid1](resources/tutorial2-11.gif) ![UltimateAndroid1](resources/tutorial2-12.gif) ![UltimateAndroid1](resources/tutorial2-13.gif) ![UltimateAndroid1](resources/tutorial2-14.gif) ![UltimateAndroid1](resources/tutorial2-15.gif)|
 | [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) | ![ElasticProgressBar](resources/ElasticProgressBar1.gif)  ![ElasticProgressBar](resources/ElasticProgressBar2.gif) |
 | [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | ![ElasticDownload](resources/ElasticDownload1.gif)  ![ElasticDownload](resources/ElasticDownload2.gif) |
