@@ -74,11 +74,12 @@ def get_programming_language(contexts):
     return language
 
 
-repo_url = 'https://github.com/ImmortalZ/StereoView'
+print("Please input the repository address,like https://github.com/xxx/xxx")
+repo_url = input()
 print("start---")
 context = get_repo_info(repo_url)  # 'https://github.com/cymcsg/Awesome-Mobile-UI'
 lang = get_programming_language(context)
-print("Language---"+lang)
+print("Language---" + lang)
 img_name_list = []
 imginfo_list = get_imginfo_list(context)
 if len(imginfo_list) > 0:
