@@ -5,16 +5,29 @@ import re
 
 def download_file(url, filename):
     # NOTE the stream=True parameter
-    response = requests.head(url)
-    print(response.headers)
-    if "Content-Length" in response.headers and int(response.headers["Content-Length"]) > 100000:
-        r = requests.get(url, stream=True)
+    # response = requests.head(url)
+
+    # if "Content-Length" in response.headers:
+    #     print("length---" + response.headers["Content-Length"])
+    # if "Content-Length" in response.headers and int(response.headers["Content-Length"]) > 100000:
+    #     r = requests.get(url, stream=True)
+    #     with open(filename, 'wb') as f:
+    #         for chunk in r.iter_content(chunk_size=1024):
+    #             if chunk:  # filter out keep-alive new chunks
+    #                 f.write(chunk)
+    #                 f.flush()
+    # return filename
+    r = requests.get(url, stream=True)
+    if len(r.content) > 50000:
+        # print("img url----" + url + "     " + str(len(r.content)))
         with open(filename, 'wb') as f:
             for chunk in r.iter_content(chunk_size=1024):
                 if chunk:  # filter out keep-alive new chunks
                     f.write(chunk)
                     f.flush()
-    return filename
+        return True
+    else:
+        return False
 
 
 def update_readme(repourl, language, img_names):
@@ -30,7 +43,8 @@ def update_readme(repourl, language, img_names):
             tag = "---------------------------------------- |"
             f.seek(text.find(tag))
             strs = text.split(tag)[1] + tag + text.split(tag)[2]
-        contexts = tag + "\n" + "|[" + repourl.split("/")[-1] + "](" + repo_url + ")|"
+        contexts = tag + "\n" + "|[" + repourl.split("/")[-1] + "](" + repo_url + ")\t" + \
+                   "Language:" + language + "  |"
         for imgname in img_names:
             contexts += "![" + repourl.split("/")[-1] + "](resources/" + imgname + ")"
         contexts += strs
@@ -60,11 +74,11 @@ def get_programming_language(contexts):
     return language
 
 
-repo_url = 'https://github.com/danielgindi/ios-charts'
+repo_url = 'https://github.com/ImmortalZ/StereoView'
 print("start---")
 context = get_repo_info(repo_url)  # 'https://github.com/cymcsg/Awesome-Mobile-UI'
 lang = get_programming_language(context)
-print(lang)
+print("Language---"+lang)
 img_name_list = []
 imginfo_list = get_imginfo_list(context)
 if len(imginfo_list) > 0:
@@ -72,9 +86,13 @@ if len(imginfo_list) > 0:
         imgurl = imginfo[0].split('"')[1]
         if imgurl.startswith("/"):
             imgurl = "https://github.com" + imgurl
-        imgName = imgurl.split("/")[-3] + "_" + imgurl.split("/")[-1]
-        if len(img_name_list) < 3:
-            img_name_list.append(imgName)
-            print("imgName--" + imgName)
-            download_file(imgurl, "resources/" + imgName)
+        if imgurl.startswith("https://github.com"):
+            imgurl = imgurl.replace("blob", "raw")
+            pass
+        imgName = imgurl.split("/")[4] + "_" + imgurl.split("/")[-1]
+
+        if len(img_name_list) < 5:
+            if download_file(imgurl, "resources/" + imgName):
+                img_name_list.append(imgName)
+                print("imgName--" + imgName)
 update_readme(repo_url, lang, img_name_list)
