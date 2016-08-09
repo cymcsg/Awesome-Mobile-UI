@@ -32,7 +32,8 @@ Have fun! Feel free to contribute!
 
 | Name                                     | Demo                                     |
 | ------------------------------ | ---------------------------------------- |
-|[FillableLoaders](https://github.com/poolqf/FillableLoaders)	Language:Swift  |![FillableLoaders](resources/Carthage_Carthage)![FillableLoaders](resources/FillableLoaders_waves.gif)![FillableLoaders](resources/FillableLoaders_spike.gif)![FillableLoaders](resources/FillableLoaders_rounded.gif)![FillableLoaders](resources/FillableLoaders_progress.gif)
+|[SwiftyDrop](https://github.com/morizotter/SwiftyDrop)	Language:Swift  |![SwiftyDrop](resources/SwiftyDrop_Default.png)![SwiftyDrop](resources/SwiftyDrop_Success.png)![SwiftyDrop](resources/SwiftyDrop_Warning.png)![SwiftyDrop](resources/SwiftyDrop_Error.png)
+|[FillableLoaders](https://github.com/poolqf/FillableLoaders)	Language:Swift  |![FillableLoaders](resources/FillableLoaders_waves.gif)![FillableLoaders](resources/FillableLoaders_spike.gif)![FillableLoaders](resources/FillableLoaders_rounded.gif)![FillableLoaders](resources/FillableLoaders_progress.gif)
 |[ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs)	Language:Swift  |![ColorMatchTabs](resources/ColorMatchTabs_preview.gif)
 | [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)    Language:Swift | ![DGElasticPullToRefreshPreview1](resources/DGElasticPullToRefreshPreview1.gif)![DGElasticPullToRefreshPreview2](resources/DGElasticPullToRefreshPreview2.gif) |
 | [ios-charts](https://github.com/danielgindi/ios-charts)          Language:Swift | ![ios-charts1](resources/ios-charts1.png)![ios-charts1](resources/ios-charts2.png)![ios-charts1](resources/ios-charts3.png)![ios-charts1](resources/ios-charts4.png)![ios-charts1](resources/ios-charts5.png) |
@@ -81,7 +82,6 @@ Have fun! Feel free to contribute!
 | [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) Language:Swift | ![StarWars.iOS](resources/StarWars.iOS.gif) |
 | [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) Language:Swift | ![SweetAlert-iOS](resources/SweetAlert-iOS.gif) |
 | [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) Language:Swift | ![SAHistoryNavigationViewController](resources/SAHistoryNavigationViewController1.gif) ![SAHistoryNavigationViewController](resources/SAHistoryNavigationViewController2.gif) |
-| [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) Language:Swift | ![SwiftyDrop](resources/SwiftyDrop.gif)  |
 | [Twinkle](https://github.com/piemonte/Twinkle) Language:Swift | ![Twinkle](resources/Twinkle.gif)        |
 | [PinterestSwift](https://github.com/demonnico/PinterestSwift) Language:Swift | ![PinterestSwift](resources/PinterestSwift.gif) |
 [PhotoStack](https://github.com/tomlongo/PhotoStack) Language:OC| ![PhotoStack](resources/PhotoStack.gif) |
